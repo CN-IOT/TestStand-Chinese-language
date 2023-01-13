@@ -7,9 +7,14 @@ TestStand 2020 版本中文语言包由CLAN Studio发布
 版本日期2023-01-04
 
 欢迎关注 CLAN Studio 公众号
+<<<<<<< HEAD
 https://mp.weixin.qq.com/s/80LWIhU6UH5XX-zuNH7zRQ 
 
 ![公众号二维码_500px.png](http://pic2.clan4456.com/clan-picgo-core/images/2022/11/04/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81_500px-515fa711dc785a71dd8819fa999ebd07.png)
+=======
+
+
+>>>>>>> 61216eeeee389ffede82f2ccd5e87c36024219ce
 
 下载地址（百度网盘）：
 链接：
